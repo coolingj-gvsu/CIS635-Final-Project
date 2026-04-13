@@ -55,7 +55,18 @@ pip install pandas scikit-learn matplotlib seaborn
 
 ## Reproducibility
 To reproduce the analysis:
-1. Clone the repository.
-2. Install the required Python packages.
+1. Clone the repository:
+
+```bash
+git clone https://github.com/coolingj-gvsu/CIS635-Final-Project.git
+cd CIS635-Final-Project
+```
+
+2. Install the required Python packages:
+
+```bash
+pip install pandas scikit-learn matplotlib seaborn
+```
+
 3. Open `Code/CIS635_Project.ipynb` in Jupyter Notebook.
 4. Run all cells from top to bottom.
